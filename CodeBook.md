@@ -6,21 +6,21 @@ The data comes from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles
 
 8 files were used from this data set:
 
-./UCI HAR Dataset/train/X_train.txt (contains feature data,  7352 obs. of  561 variables)
+    ./UCI HAR Dataset/train/X_train.txt (contains feature data,  7352 obs. of  561 variables)
 
-./UCI HAR Dataset/train/Y_train.txt (contains activity data,  7352 obs. of  1 variable)
+    ./UCI HAR Dataset/train/Y_train.txt (contains activity data,  7352 obs. of  1 variable)
 
-./UCI HAR Dataset/train/subject_train.txt (contains subject data, 7352 obs. of  1 variable)
+    ./UCI HAR Dataset/train/subject_train.txt (contains subject data, 7352 obs. of  1 variable)
 
-./UCI HAR Dataset/test/X_test.txt (contains feature data,  2947 obs. of  561 variables)
+    ./UCI HAR Dataset/test/X_test.txt (contains feature data,  2947 obs. of  561 variables)
 
-./UCI HAR Dataset/test/Y_test.txt (contains activity data,  2947 obs. of  1 variable)
+    ./UCI HAR Dataset/test/Y_test.txt (contains activity data,  2947 obs. of  1 variable)
 
-./UCI HAR Dataset/test/subject_test.txt (contains subject data, 2947 obs. of  1 variable)
+    ./UCI HAR Dataset/test/subject_test.txt (contains subject data, 2947 obs. of  1 variable)
 
-./UCI HAR Dataset/features.txt (contains meta data on the features, 561 obs. of  2 variables)
+    ./UCI HAR Dataset/features.txt (contains meta data on the features, 561 obs. of  2 variables)
 
-./UCI HAR Dataset/activity_labels.txt (contains meta data on the activities, 6 obs. of  2 variables)
+    ./UCI HAR Dataset/activity_labels.txt (contains meta data on the activities, 6 obs. of  2 variables)
 
 Feature test and train data were merged (appended rows). 10299 obs. of  561 variables
 
